@@ -125,15 +125,3 @@ A continuación se detallan las métricas por clase para el modelo final entrena
 - Las clases con menor rendimiento fueron **disgust** (f1 = 0.47) y **anger** (f1 = 0.51), posiblemente debido a su menor representación y ambigüedad expresiva.
 - El desempeño balanceado entre precisión y recall indica una capacidad razonable de generalización sin sesgo excesivo hacia clases dominantes.
 
-
-## Autores
-
-Este proyecto fue desarrollado por:
-
-- **Juan Pedro Montero**  
-- **Nicolás Pérez**  
-- **Adrián Luerssen**
-
-Estudiantes del Máster en Ciencia de Datos - Curso 2024/2025  
-Asignaturas: *MD008 - Inteligencia Artificial para la Ciencia de los Datos* y *MD009 - Herramientas Avanzadas de Análisis de Datos*
-
