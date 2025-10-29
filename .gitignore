@@ -1,0 +1,23 @@
+# Datasets
+*.csv
+*.zip
+*.db
+*.sqlite3
+
+# Modelos
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# Entorno Python
+venv/
+.env
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de OS
+.DS_Store
+Thumbs.db
